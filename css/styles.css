@@ -1,0 +1,10 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+canvas#three-canvas {
+  width: 100%;
+  height: 300px;
+  display: block;
+  margin: auto;
+}
